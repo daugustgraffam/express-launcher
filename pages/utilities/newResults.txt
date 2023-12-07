@@ -1,0 +1,10 @@
+Using locally installed version of TestCafe.
+ Running tests in:
+ - Firefox 99.0 / macOS 10.15
+
+ ecom test for new user
+<li>Environment is:  staging</li>
+<li><b>Square Online(Weebly) Signup</b></li>
+<li>Clicking on Sign up link</li>
+<li>Sign up page has loaded</li>
+<li>Ecom Sign up flow</li>

@@ -1,0 +1,1 @@
+Using locally installed version of TestCafe.

@@ -1,0 +1,37 @@
+{
+  "name": "sifter",
+  "version": "1.0.0",
+  "description": "Standardized Integration Functionality Tester",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/squareup/sifter.git"
+  },
+  "keywords": [
+    "QA",
+    "Test",
+    "Integration"
+  ],
+  "author": "Derrick Graffam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/squareup/sifter/issues"
+  },
+  "homepage": "https://github.com/squareup/sifter#readme",
+  "devDependencies": {
+    "@playwright/test": "1.33.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "shelljs": "^0.8.5"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "shelljs": "^0.8.5"
+  }
+}

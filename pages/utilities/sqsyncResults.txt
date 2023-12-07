@@ -1,0 +1,7 @@
+Using locally installed version of TestCafe.
+ Running tests in:
+ - Firefox 99.0 / macOS 10.15
+
+ Square Sync Test
+<li>Environment is:  staging</li>
+<li>Square Signup</li>
